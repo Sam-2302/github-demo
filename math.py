@@ -15,4 +15,4 @@ def mult(x,y):
 
 #Divide implementation
 def div(x,y):
-    pass
+    return x/y
